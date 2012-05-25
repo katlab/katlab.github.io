@@ -3,7 +3,18 @@ layout: default
 title: Publications
 weight: 4
 --- 
-# Publications
+
+An updated list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
+
+White RR, Miyata S, Papa E, Spooner E, Gounaris K, Selkirk ME,
+Artavanis-Tsakonas K. Characterisation of the Trichinella spiralis
+deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome
+interaction partner. PLoS Negl Trop Dis. 2011 Oct;5(10):e1340.
+
+Artavanis-Tsakonas K, Kasperkovitz PV, Papa E, Cardenas ML, Khan NS, Van der
+Veen AG, Ploegh HL, Vyas JM. The tetraspanin CD82 is specifically recruited to
+fungal and bacterial phagosomes prior to acidification. Infect Immun. 2011
+Mar;79(3):1098-106. 
 
 Artavanis-Tsakonas K, Weihofen WA, Antos JM, Coleman BI, Comeaux CA, Duraisingh MT, Gaudet R, Ploegh HL. Structural studies and characterization of the Plasmodium falciparum ubiquitin and Nedd8 hydrolase UCHL3, J Biol Chem. 2010, Feb 26;285(9):6857-66.
 
@@ -27,3 +38,4 @@ Artavanis-Tsakonas K, Tongren JE and Riley EM. The war between the malaria paras
 
 Artavanis-Tsakonas K and Riley EM. Innate immune responses to Plasmodium falciparum malaria: early IFN- 
 γ production is derived from NK cells and is preferentially induced by live rather than dead parasites. J Immunol, 2002, 169: 2956-2963.  
+

@@ -123,6 +123,9 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
+	img.floating {
+		float: left;
+		padding: 0px 10px 10px 0px; }
 
 
 /* #Buttons

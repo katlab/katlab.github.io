@@ -8,18 +8,67 @@ people:
     sub: Principal Investigator, Wellcome Trust Career Development Fellow
     edu: |
         Ph.D Immunology, London School of Hygiene  Tropical Medicine
-        <br>MPH, Yale
+        <br>MPH Epidemiology, Yale University
+        <br>Post-doctoral associate, Whitehead institute
   - name: Sachiko Miyata, Ph.D
     image: images/sach.png
     sub: Post-doctoral associate
-    edu: Ph.D Molecular Biology, University of Nagoya, Japan
+    edu: |
+        Ph.D Molecular Biology, University of Nagoya, Japan<br>
+        M.S. Biochemistry, University of Massachusetts
+  - name: Rhiannon Holmes
+    image: images/rhi.png
+    sub: Ph.D candidate
+    edu: MRes, Imperial College London
+  - name: Marco Mol
+    image: images/marco.png
+    sub: Graduate student
+    edu: 
+  - name: Ed Couchman
+    image: images/ed.png
+    sub: Graduate student
+    edu: MRes/Ph.D candidate
+alumni:
+  - name: Louis Wai
+    image: images/louis.png
+    sub: Undergraduate student
+    edu: B.Sc candidate
+  - name: Amalina Mumin
+    image: images/ame.png
+    sub: Graduate student
+    edu: MRes candidate
+  - name: Sam Sheppard
+    image: images/sam.png
+    sub: Graduate student
+    edu: MRes/Ph.D candidate
 ---
-
-<h3>Current lab members</h3>
-<hr>
+<div class="twelve columns clearfix">
+    <h3>Current lab members</h3>
+    <hr>
+</div>
 
 {% for item in page.people %}
+<div class="row">
+	
+    <div class="four columns alpha">
+		<img src="{{ item.image }}" class="scale-with-grid">
+	</div>
+    <div class="eight columns omega">
+		<h4>{{ item.name }}</h4>
+		<p class="subheader">{{ item.sub }}</p>
+		{{ item.edu }}
+	</div>
+
+</div>
+{% endfor %}
+
 <div class="twelve columns clearfix">
+    <h3>Alumni</h3>
+    <hr>
+</div>
+
+{% for item in page.alumni %}
+<div class="row">
     <div class="four columns alpha">
 		<img src="{{ item.image }}">
 	</div>
@@ -30,5 +79,4 @@ people:
 	</div>
 </div>
 {% endfor %}
-
 

@@ -1,6 +1,6 @@
 {% include doctype.html %}
 <head>
-	
+	<link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
 	{% include meta.html %}
 	{% include skeletonsetup.html %}
 
@@ -8,30 +8,30 @@
 <body>
 
 	<div class="container">
-		<h1>Artavanis-Tsakonas Lab</h1>
+		<div class="twelve columns">
+			<div style="font-family: 'Raleway', cursive; font-size: 46px; line-height: 50px; margin-bottom: 14px; color: #ff7c00">Artavanis-Tsakonas Lab</div>
+		</div>
 	</div>
 
 	<div class="container">
+		<div class="twelve columns">
 		<ul class="tabs">	
-			{% for weight in (1..10) %}
-			{% for p in site.pages %}
-			{% if p.weight == weight %}
+			{% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
 			  <li>
 	        	  <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
 	          		{{ p.title }}
 				</a>
 			  </li>
-			  {% endif %}
-			  {% endfor %}
-			  {% endfor %}
+			  {% endif %}{% endfor %}{% endfor %}
 		  </ul>
+		  </div>
 	</div>
 
 
 	<div class="container">
-		
+		<div class="twelve columns">
 		{{ content }}
-
+		</div>
 	</div>
 	<div class="container">
 		{% include footer.html %}

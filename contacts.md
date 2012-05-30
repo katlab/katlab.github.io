@@ -19,4 +19,4 @@ Our address is:
 >London, SW7 2AZ, UK  
 >
 
-You can contact us via [email](mailto:k.artavanis-tsakonas@imperial.ac.uk) or phone: +44 (0)20 75895111 x55449 
+You can contact us via [email](mailto:k.artavanis-tsakonas@imperial.ac.uk) or phone: +44 (0)20 75942778

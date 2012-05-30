@@ -4,7 +4,7 @@ title: Publications
 weight: 4
 --- 
 
-An updated list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
+>An updated list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
 
 White RR, Miyata S, Papa E, Spooner E, Gounaris K, Selkirk ME,
 Artavanis-Tsakonas K. Characterisation of the Trichinella spiralis

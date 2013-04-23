@@ -1,4 +1,4 @@
 katlab.github.com
 =================
 
-KAT Laboratory website
+Katerina Artavanis Tsakonas group website

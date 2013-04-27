@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contacts
-weight: 5
+weight: 6
 ---
 
 We are located on Imperial’s South Kensington Campus, in the Sir Alexander Fleming Bldg. 

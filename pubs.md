@@ -6,6 +6,10 @@ weight: 4
 
 >An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
 
+**Stabilization of an unusual salt bridge in ubiquitin by the extra C-terminal domain of the proteasome-associated deubiquitinase UCH37 as a mechanism of its exo specificity.**  
+Morrow ME, Kim MI, Ronau JA, Sheedlo MJ, White RR, Chaney J, Paul LN, Lill MA, Artavanis-Tsakonas K, Das C.  
+Biochemistry. 2013 Apr 25.
+
 **How helminths use excretory secretory fractions to modulate dendritic cells.**  
 White RR, Artavanis-Tsakonas K.  
 Virulence. 2012 Nov 15;3(7).

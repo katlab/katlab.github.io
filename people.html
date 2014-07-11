@@ -10,40 +10,49 @@ people:
         Ph.D Immunology, London School of Hygiene  Tropical Medicine
         <br>MPH Epidemiology, Yale University
         <br>Post-doctoral associate, Whitehead institute
+
+  - name: Rhiannon Holmes
+    image: images/rhi.png
+    sub: Post-doctoral associate
+    edu: |
+        Ph.D, Imperial College London
+        <br>MRes, Imperial College London
+  - name: Marco Mol
+    image: images/marco.png
+    sub: Research assistant
+    edu: MSc, Vrije Universiteit Amsterdam
+  - name: Pippa Goddard
+    image: images/pippa.jpg
+    sub: Graduate student
+    edu: MRes/Ph.D candidate
+  - name: Sharon Versteeg
+    image: images/sharon.jpg
+    sub: Graduate student
+    edu: MRes candidate
+
+alumni:
   - name: Sachiko Miyata, Ph.D
     image: images/sach.png
     sub: Post-doctoral associate
     edu: |
         Ph.D Molecular Biology, University of Nagoya, Japan<br>
         M.S. Biochemistry, University of Massachusetts
-  - name: Rhiannon Holmes
-    image: images/rhi.png
-    sub: Ph.D candidate
-    edu: MRes, Imperial College London
-  - name: Marco Mol
-    image: images/marco.png
-    sub: Research technician
-    edu: MSc, Vrije Universiteit Amsterdam
-  - name: Tristan Varela
-    image: images/tristan.png
-    sub: Undergraduate
-alumni:
-  - name: Louis Wai
-    image: images/louis.png
-    sub: Undergraduate student
-    edu: B.Sc candidate
-  - name: Amalina Mumin
-    image: images/ame.png
-    sub: Graduate student
-    edu: MRes candidate
-  - name: Sam Sheppard
-    image: images/sam.png
-    sub: Graduate student
-    edu: MRes/Ph.D candidate
   - name: Ed Couchman
     image: images/ed.png
     sub: Graduate student
-    edu: MRes/Ph.D candidate
+  - name: Tristan Varela
+    image: images/tristan.png
+    sub: Undergraduate
+  - name: Louis Wai
+    image: images/louis.png
+    sub: Undergraduate
+  - name: Amalina Mumin
+    image: images/ame.png
+    sub: Graduate student
+  - name: Sam Sheppard
+    image: images/sam.png
+    sub: Graduate student
+
 ---
 <div class="twelve columns clearfix">
     <h3>Current lab members</h3>
@@ -52,7 +61,7 @@ alumni:
 
 {% for item in page.people %}
 <div class="row">
-	
+
     <div class="four columns alpha">
 		<img src="{{ item.image }}" class="scale-with-grid">
 	</div>
@@ -82,4 +91,3 @@ alumni:
 	</div>
 </div>
 {% endfor %}
-

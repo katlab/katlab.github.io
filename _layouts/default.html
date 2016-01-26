@@ -15,7 +15,7 @@
 
 	<div class="container">
 		<div class="twelve columns">
-		<ul class="tabs">	
+		<ul class="tabs">
 			{% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
 			  <li>
 	        	  <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
@@ -29,12 +29,10 @@
 
 
 	<div class="container">
-		<div class="twelve columns">
 		{{ content }}
-		</div>
 	</div>
-	
-	
+
+
 	{% include scripts.html %}
 	{% include analytics.html %}
 

@@ -2,7 +2,7 @@
 layout: default
 title: Collaborators
 weight: 5
---- 
+---
 
 
 
@@ -12,5 +12,5 @@ weight: 5
 [Chittaranjan Das](http://www.chem.purdue.edu/people/faculty/faculty.asp?itemID=82), Purdue  
 
 [Murray Selkirk](http://www3.imperial.ac.uk/people/m.selkirk), Imperial  
-[Kleoniki Gounaris](http://www3.imperial.ac.uk/people/k.gounaris), Imperial  
-[Ed Tate](http://www3.imperial.ac.uk/people/e.tate), Imperial  
+
+[Benjamin Stieglitz](http://www.sbcs.qmul.ac.uk/staff/benstieglitz.html), Queen Mary, University of London

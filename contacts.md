@@ -4,19 +4,18 @@ title: Contacts
 weight: 6
 ---
 
-We are located on Imperial’s South Kensington Campus, in the Sir Alexander Fleming Bldg. 
+We are located in the historical Molteno building, in the heart of Cambridge University campus.
 
-![SAF](images/saf.jpg)
+![SAF](images/molteno.JPG)
 
 Our address is:
 
+>Katerina Artavanis-Tsakonas, PhD, MPH  
+>University Lecturer in Parasitology  
+>Department of Pathology  
+>University of Cambridge  
+>Tennis Court Road  
+>Cambridge,
+>CB2 1QP
 
->Artavanis-Tsakonas Group  
->Division of Cell and Molecular Biology  
->Imperial College London  
->Sir Alexander Fleming Bldg  
->Imperial College Road,  
->London, SW7 2AZ, UK  
->
-
-You can contact us via [email](mailto:k.artavanis-tsakonas@imperial.ac.uk) or phone: +44 (0)20 75942778
+You can contact us via [email](mailto:ka447@cam.ac.uk) or phone: +44 (0)1223 764505

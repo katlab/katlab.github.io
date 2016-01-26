@@ -5,7 +5,6 @@ weight: 5
 ---
 
 
-
 [Steve Gygi](https://gygi.med.harvard.edu/index.html/), Harvard Medical School  
 [Jay Vyas](http://www2.massgeneral.org/id/labs/vyas/), MGH  
 

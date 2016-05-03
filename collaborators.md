@@ -11,5 +11,3 @@ weight: 5
 [Chittaranjan Das](http://www.chem.purdue.edu/people/faculty/faculty.asp?itemID=82), Purdue  
 
 [Murray Selkirk](http://www3.imperial.ac.uk/people/m.selkirk), Imperial  
-
-[Benjamin Stieglitz](http://www.sbcs.qmul.ac.uk/staff/benstieglitz.html), Queen Mary, University of London

@@ -4,7 +4,7 @@ title: Publications
 weight: 4
 --- 
 
->An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
+>An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=Artavanis-Tsakonas%20K%5BAuthor%5D)
 
 **Ubiquitin-Dependent Modification of Skeletal Muscle by the Parasitic Nematode, Trichinella spiralis.**
 White RR, Ponsford AH, Weekes MP, Rodrigues RB, Ascher DB, Mol M, Selkirk ME, Gygi SP, Sanderson CM, Artavanis-Tsakonas K.

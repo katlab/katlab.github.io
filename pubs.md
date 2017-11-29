@@ -6,6 +6,12 @@ weight: 4
 
 >An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=artavanis-tsakonas%20k%5BAuthor%5D)
 
+**Ubiquitin-Dependent Modification of Skeletal Muscle by the Parasitic Nematode, Trichinella spiralis.**
+White RR, Ponsford AH, Weekes MP, Rodrigues RB, Ascher DB, Mol M, Selkirk ME, Gygi SP, Sanderson CM, Artavanis-Tsakonas K.
+PLoS Pathog. 2016 Nov 21;12(11):e1005977. doi: 10.1371/journal.ppat.1005977. eCollection 2016 Nov.
+PMID: 27870901
+
+
 **Stabilization of an unusual salt bridge in ubiquitin by the extra C-terminal domain of the proteasome-associated deubiquitinase UCH37 as a mechanism of its exo specificity.**  
 Morrow ME, Kim MI, Ronau JA, Sheedlo MJ, White RR, Chaney J, Paul LN, Lill MA, Artavanis-Tsakonas K, Das C.  
 Biochemistry. 2013 Apr 25.

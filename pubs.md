@@ -6,11 +6,32 @@ weight: 4
 
 >An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=Artavanis-Tsakonas%20K%5BAuthor%5D)
 
+**Ubiquitin-Like Modifiers: Emerging Regulators of Protozoan Parasites.**
+Karpiyevich M, Artavanis-Tsakonas K. Biomolecules. 2020 Oct 3;10(10):1403. doi:
+10.3390/biom10101403. PMID: 33022940; PMCID: PMC7600729.
+
+**Artemisinin susceptibility in the malaria parasite Plasmodium falciparum: propellers, adaptor proteins and the need for cellular healing.**
+Sutherland CJ, Henrici RC, Artavanis-Tsakonas K.  
+FEMS Microbiol Rev. 2020 Oct 23:fuaa056. doi:
+10.1093/femsre/fuaa056. Epub ahead of print. PMID: 33095255.
+
+**CD82 controls CpG-dependent TLR9 signaling.**
+Khan NS, Lukason DP, Feliu M, Ward RA, Lord AK, Reedy JL, Ramirez-Ortiz ZG,
+Tam JM, Kasperkovitz PV, Negoro PE, Vyas TD, Xu S, Brinkmann MM, Acharaya M,
+Artavanis-Tsakonas K, Frickel EM, Becker CE, Dagher Z, Kim YM, Latz E, Ploegh
+HL, Mansour MK, Miranti CK, Levitz SM, Vyas JM. 
+FASEB J. 2019 Nov;33(11):12500-12514. doi: 10.1096/fj.201901547R.
+Epub 2019 Aug 13. PMID: 31408613; PMCID: PMC6988855.
+
+**Nedd8 hydrolysis by UCH proteases in Plasmodium parasites.**
+Karpiyevich M, Adjalley S, Mol M, Ascher DB, Mason B, van der Heden van Noort
+GJ, Laman H, Ovaa H, Lee MCS, Artavanis-Tsakonas K.  PLoS Pathog. 2019 Oct 28;15(10):e1008086.
+doi: 10.1371/journal.ppat.1008086. PMID: 31658303; PMCID: PMC6837540.
+
 **Ubiquitin-Dependent Modification of Skeletal Muscle by the Parasitic Nematode, Trichinella spiralis.**
 White RR, Ponsford AH, Weekes MP, Rodrigues RB, Ascher DB, Mol M, Selkirk ME, Gygi SP, Sanderson CM, Artavanis-Tsakonas K.
 PLoS Pathog. 2016 Nov 21;12(11):e1005977. doi: 10.1371/journal.ppat.1005977. eCollection 2016 Nov.
 PMID: 27870901
-
 
 **Stabilization of an unusual salt bridge in ubiquitin by the extra C-terminal domain of the proteasome-associated deubiquitinase UCH37 as a mechanism of its exo specificity.**  
 Morrow ME, Kim MI, Ronau JA, Sheedlo MJ, White RR, Chaney J, Paul LN, Lill MA, Artavanis-Tsakonas K, Das C.  

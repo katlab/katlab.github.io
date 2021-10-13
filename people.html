@@ -8,17 +8,9 @@ people:
     sub: University Lecturer in Parasitology
     edu: |
         Wellcome Trust Career Development Fellow, Imperial College
-        <br>Post-doctoral Associate, Whitehead institute
+        <br>Post-doc, Whitehead institute
         <br>Ph.D Immunology, London School of Hygiene and Tropical Medicine
         <br>MPH Epidemiology, Yale University
-  - name: Bill Gregory
-    sub: Post-doctoral associate
-    edu: PhD, University of Edinburgh
-    image: images/bill.jpg
-  - name: Maryia Karpiyevich
-    sub: Post-doctoral associate
-    edu: PhD, University of Cambridge
-    image: images/maryia.jpg
   - name: Bradley Nash
     sub: PhD student
     image: images/bradley.jpg
@@ -28,49 +20,77 @@ people:
   - name: Harry King
     sub: PhD student
     image: images/harry.jpg
+
+alumni:
+  - name: Bill Gregory
+    sub: Post-doc
+    edu: PhD, University of Edinburgh
+    image: images/bill.jpg
+    now: Cambridge University
+  - name: Maryia Karpiyevich
+    sub: Post-doc
+    linkedin: https://www.linkedin.com/in/maryiakarpiyevich/
+    now: Senior Applications Biologist at Aixtron ltd.
+    edu: PhD, University of Cambridge
+    image: images/maryia.jpg
   - name: Annie Geiger
     sub: MPhil student
     image: images/annie.jpg
-alumni:
+    now: UMass Medical School
+    linkedin: https://www.linkedin.com/in/annie-geiger-7a4250115/
   - name: Marco Mol
     image: images/marco.png
-    sub: Research assistant
+    sub: Research asst.
     edu: MSc, Vrije Universiteit Amsterdam
+    now: 3P Biopharmaceuticals
+    linkedin: https://www.linkedin.com/in/marco-mol-5379b228/
   - name: Rhiannon White
     image: images/rhi.png
-    sub: Post-doctoral associate
+    sub: Post-doc
+    now: Researcher/writer at the Eden Project
+    linkedin: https://www.linkedin.com/in/rhiannon-r-white-65a3bb157/
     edu: |
       Ph.D, Imperial College London
       <br>MRes, Imperial College London
   - name: Sachiko Miyata, Ph.D
     image: images/sach.png
-    sub: Post-doctoral associate
+    sub: Post-doc
+    now: London School of Hygiene and Tropical Medicine
+    linkedin: https://www.linkedin.com/in/sachiko-miyata-02131112/
     edu: |
         Ph.D Molecular Biology, University of Nagoya, Japan<br>
         M.S. Biochemistry, University of Massachusetts
-  - name: Pippa Goddard
-    image: images/pippa.jpg
-    sub: Graduate student
-    edu: MRes/Ph.D candidate
   - name: Sharon Versteeg
     image: images/sharon.jpg
     sub: Graduate student
     edu: MRes candidate
+    linkedin: https://www.linkedin.com/in/versteeg-sharon/
+    now: Senior Scientist at Ingenza Ltd
   - name: Ed Couchman
     image: images/ed.png
     sub: Graduate student
+    now: Technical asst at Dehns
+    linkedin: https://www.dehns.com/site/people/profile/ecouchman
   - name: Tristan Varela
     image: images/tristan.png
     sub: Undergraduate
+    now: Random42 Scientific Communication
+    linkedin: https://www.linkedin.com/in/tristan-varela-phd-9b4701107/
   - name: Louis Wai
     image: images/louis.png
     sub: Undergraduate
+    now: IP Attorney at Turner Boyd LLP
+    linkedin: https://www.linkedin.com/in/louis-wai-8793656b/
   - name: Amalina Mumin
     image: images/ame.png
     sub: Graduate student
+    now: Lecturer at Universiti Brunei Darussalam
+    linkedin: https://www.linkedin.com/in/nuramalina-mumin-984a11108/
   - name: Sam Sheppard
     image: images/sam.png
     sub: Graduate student
+    now: Memorial Sloan Kettering Cancer Center
+    linkedin: https://www.linkedin.com/in/sam-sheppard-b06b17161/
 
 ---
 <div class="row">
@@ -100,18 +120,31 @@ alumni:
   <div class="twelve columns">
     <h3>Alumni</h3>
     <hr>
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th>Now at:</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in page.alumni %}
+        <tr>
+          <td><a class="alumni" href="{{ item.linkedin }}">{{ item.name }}</a>&emsp;</td>
+          <td>{{ item.sub }}&emsp;&emsp;</td>
+          <td>{{ item.now}}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
 </div>
 </div>
 
-{% for item in page.alumni %}
-<div class="row">
-    <div class="four columns alpha">
-		<img src="{{ item.image }}" class="scale-with-grid">
-	</div>
-    <div class="eight columns omega">
-		<h4>{{ item.name }}</h4>
-		<p class="subheader">{{ item.sub }}</p>
-		<p>{{ item.edu }}</p>
-	</div>
-</div>
-{% endfor %}
+
+<!-- <div class="row">
+  {% for item in page.alumni %}
+	<p><a href="{{ item.linkedin }}">{{ item.name }}</a>, {{ item.sub }} &emsp;  now at {{ item.now }}</p>
+  {% endfor %}
+</div> -->
+

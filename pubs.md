@@ -6,6 +6,11 @@ weight: 4
 
 >An up-to-date list can be found on [pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=Artavanis-Tsakonas%20K%5BAuthor%5D)
 
+**Artemisinin susceptibility in the malaria parasite Plasmodium falciparum: propellers, adaptor proteins and the need for cellular healing.**
+Sutherland CJ, Henrici RC, Artavanis-Tsakonas K.
+FEMS Microbiol Rev. 2021 May 5;45(3):fuaa056. doi: 10.1093/femsre/fuaa056.
+PMID: 33095255
+
 **Ubiquitin-Like Modifiers: Emerging Regulators of Protozoan Parasites.**
 Karpiyevich M, Artavanis-Tsakonas K. Biomolecules. 2020 Oct 3;10(10):1403. doi:
 10.3390/biom10101403. PMID: 33022940; PMCID: PMC7600729.
@@ -19,7 +24,7 @@ FEMS Microbiol Rev. 2020 Oct 23:fuaa056. doi:
 Khan NS, Lukason DP, Feliu M, Ward RA, Lord AK, Reedy JL, Ramirez-Ortiz ZG,
 Tam JM, Kasperkovitz PV, Negoro PE, Vyas TD, Xu S, Brinkmann MM, Acharaya M,
 Artavanis-Tsakonas K, Frickel EM, Becker CE, Dagher Z, Kim YM, Latz E, Ploegh
-HL, Mansour MK, Miranti CK, Levitz SM, Vyas JM. 
+HL, Mansour MK, Miranti CK, Levitz SM, Vyas JM.
 FASEB J. 2019 Nov;33(11):12500-12514. doi: 10.1096/fj.201901547R.
 Epub 2019 Aug 13. PMID: 31408613; PMCID: PMC6988855.
 

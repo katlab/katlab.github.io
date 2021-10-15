@@ -15,10 +15,6 @@ PMID: 33095255
 Karpiyevich M, Artavanis-Tsakonas K. Biomolecules. 2020 Oct 3;10(10):1403. doi:
 10.3390/biom10101403. PMID: 33022940; PMCID: PMC7600729.
 
-**Artemisinin susceptibility in the malaria parasite Plasmodium falciparum: propellers, adaptor proteins and the need for cellular healing.**
-Sutherland CJ, Henrici RC, Artavanis-Tsakonas K.  
-FEMS Microbiol Rev. 2020 Oct 23:fuaa056. doi:
-10.1093/femsre/fuaa056. Epub ahead of print. PMID: 33095255.
 
 **CD82 controls CpG-dependent TLR9 signaling.**
 Khan NS, Lukason DP, Feliu M, Ward RA, Lord AK, Reedy JL, Ramirez-Ortiz ZG,

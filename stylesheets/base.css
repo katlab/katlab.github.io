@@ -158,6 +158,11 @@ td:last-child {
 		float: left;
 		padding: 0px 10px 10px 0px; }
 
+	img {
+		display:[inline-]block;
+		vertical-align: middle;
+	}
+
 
 /* #Buttons
 ================================================== */

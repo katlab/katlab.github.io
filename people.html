@@ -94,10 +94,7 @@ alumni:
 
 ---
 <div class="row">
-<div class="twelve columns">
     <h3>Current lab members</h3>
-    <hr>
-</div>
 </div>
 
 {% for item in page.people %}
@@ -117,10 +114,9 @@ alumni:
 {% endfor %}
 
 <div class="row">
-  <div class="twelve columns">
     <h3>Alumni</h3>
     <hr>
-    <table>
+    <table class="u-full-width">
       <thead>
         <tr>
           <th></th>
@@ -139,12 +135,6 @@ alumni:
       </tbody>
     </table>
 </div>
-</div>
 
 
-<!-- <div class="row">
-  {% for item in page.alumni %}
-	<p><a href="{{ item.linkedin }}">{{ item.name }}</a>, {{ item.sub }} &emsp;  now at {{ item.now }}</p>
-  {% endfor %}
-</div> -->
 

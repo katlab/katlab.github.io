@@ -12,13 +12,10 @@
 <body>
 
 	<div class="container">
-		<div class="twelve columns">
-			<div style="font-family: 'Raleway', cursive; font-size: 46px; line-height: 50px; margin-bottom: 14px; color: #ff7c00">Artavanis-Tsakonas Lab</div>
-		</div>
+			<div style="font-family: 'Raleway', cursive; font-size: 46px; line-height: 50px; margin-bottom: 14px; color: #ff7c00">KATLab</div>
 	</div>
 
 	<div class="container">
-		<div class="twelve columns">
 		<ul class="tabs">
 			{% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
 			  <li>
@@ -28,7 +25,6 @@
 			  </li>
 			  {% endif %}{% endfor %}{% endfor %}
 		  </ul>
-		  </div>
 	</div>
 
 

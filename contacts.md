@@ -6,7 +6,9 @@ weight: 6
 
 We are located in the historical Molteno building, in the heart of Cambridge University campus.
 
-![SAF](images/molteno.JPG)
+
+<img src="images/molteno-drawing-scan.jpg" alt="drawing" width="600"/>
+
 
 Our address is:
 

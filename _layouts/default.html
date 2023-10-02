@@ -1,6 +1,10 @@
 {% include doctype.html %}
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 	{% include meta.html %}
 	{% include skeletonsetup.html %}
 
@@ -8,13 +12,13 @@
 <body>
 
 	<div class="container">
-		<div class="twelve columns">
-			<div style="font-family: 'Raleway', cursive; font-size: 46px; line-height: 50px; margin-bottom: 14px; color: #ff7c00">Artavanis-Tsakonas Lab</div>
-		</div>
+			<div style="font-family: 'Raleway', cursive; font-size: 46px; line-height: 50px; margin-bottom: 14px; color: #ff7c00">
+				<img src="images/logo-website.jpg" height="50px" >
+				KATLab
+			</div>
 	</div>
 
 	<div class="container">
-		<div class="twelve columns">
 		<ul class="tabs">
 			{% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
 			  <li>
@@ -24,7 +28,6 @@
 			  </li>
 			  {% endif %}{% endfor %}{% endfor %}
 		  </ul>
-		  </div>
 	</div>
 
 

@@ -6,22 +6,29 @@ people:
   - name: Katerina Artavanis-Tsakonas, Ph.D, MPH
     image: images/kat2-280.jpg
     sub: Associate Professor in Parasitology
-    edu: |
+    <!-- edu: |
         Wellcome Trust Career Development Fellow, Imperial College
         <br>Post-doc, Whitehead institute
         <br>Ph.D Immunology, London School of Hygiene and Tropical Medicine
-        <br>MPH Epidemiology, Yale University
-  - name: Bradley Nash
+        <br>MPH Epidemiology, Yale University -->
+  - name: Mohsen Hajisadeghian
+    sub: Post-doc
+    image: images/Mohsen.jpg
+  - name: Carla Briggs
     sub: PhD student
-    image: images/bradley.jpg
+    image: images/Carla.jpeg
+
+
+alumni:
+
   - name: Cameron Smith
     sub: PhD student
     image: images/cameron.jpg
+    now: Bicycle Therapeutics
   - name: Harry King
     sub: PhD student
     image: images/harry.jpg
-
-alumni:
+    now: Bicycle Therapeutics
   - name: Bill Gregory
     sub: Post-doc
     edu: PhD, University of Edinburgh
@@ -94,10 +101,7 @@ alumni:
 
 ---
 <div class="row">
-<div class="twelve columns">
     <h3>Current lab members</h3>
-    <hr>
-</div>
 </div>
 
 {% for item in page.people %}
@@ -117,10 +121,9 @@ alumni:
 {% endfor %}
 
 <div class="row">
-  <div class="twelve columns">
     <h3>Alumni</h3>
     <hr>
-    <table>
+    <table class="u-full-width">
       <thead>
         <tr>
           <th></th>
@@ -139,12 +142,6 @@ alumni:
       </tbody>
     </table>
 </div>
-</div>
 
 
-<!-- <div class="row">
-  {% for item in page.alumni %}
-	<p><a href="{{ item.linkedin }}">{{ item.name }}</a>, {{ item.sub }} &emsp;  now at {{ item.now }}</p>
-  {% endfor %}
-</div> -->
 
